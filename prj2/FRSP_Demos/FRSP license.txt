@@ -1,0 +1,7 @@
+Permission to use, copy, modify and distribute, including the right
+to grant others rights to distribute at any tier, this software and
+its documentation for any purpose and without fee or royalty is hereby
+granted, provided that the asscoiated copyright and attribution, and
+disclaimer are retained in ALL copies and derivative works of the
+software and documentation, including modifications that you make
+for internal use or for distribution.

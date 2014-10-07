@@ -1,0 +1,23 @@
+ECE410 Radar Project 2 - Kelvin Lin 2013
+
+prj2.m - main project test bench; was used to generate data and graphs. Includes some observations on results obtained through experimentation in comments.
+prj2Writeup.pdf - the writeup
+
+custom functions
+mclutter(CNR) - a copy of the clutter generation code provided, but allows user input for CNR
+mdatac(CNR) - creates data with a user defined CNR value
+pdatanpc - processes the data with MTI disabled
+mdatacr(CNR) - creates an grid of targets. Adds clutter at a given CNR.
+pdatacr - processes the data with all graphs suppressed except the pulse doppler contour of the processed data.
+mdataslow(lv) - generates data with a minimum velocity of lv*15 m/s
+mdatabw(CNR,W) - generates data with user input CNR and chirp bandwidth W
+pdatabw - processes data with range bin plots disabled. (line 307)
+
+The following folders contain graphs and data relevant to the writeup:
+Test Effectiveness of MTI
+Bandwidth Games
+
+The folder labeled plot2svg contains a function which converts a matlab.fig file into a .svg vector graphics file.
+obtained from the matlab file exchange
+
+All functions needed to run the code in prj2.m are located in the main folder.

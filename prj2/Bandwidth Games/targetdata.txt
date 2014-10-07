@@ -1,0 +1,94 @@
+There are 4 targets with the following parameters:
+  range=    2 km, SNR=     -3 dB, rel_RCS=  -26.7 dB, vel=      -60 m/s
+  range=  3.8 km, SNR=      5 dB, rel_RCS=  -7.55 dB, vel=      -30 m/s
+  range=  4.4 km, SNR=     10 dB, rel_RCS=      0 dB, vel=       30 m/s
+  range=  4.4 km, SNR=      7 dB, rel_RCS=     -3 dB, vel=       60 m/s
+
+CNR20 BW1e6
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -26.6               2          -60.22
+   2         -7.64             3.8          -30.33
+   3             0             4.4           30.28
+   4         -2.95             4.4            60.3 
+Elapsed time is 4.032462 seconds.
+
+CNR30 BW1e6
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -26.6               2          -59.68
+   2         -7.57             3.8          -30.29
+   3             0             4.4           30.24
+   4         -2.85             4.4           60.33 
+Elapsed time is 3.659889 seconds.
+
+CNR40 BW1e6
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -26.2            2.01          -59.35
+   2         -7.63            3.81          -30.54
+   3             0             4.4           30.05
+   4         -2.66             4.4           60.09 
+Elapsed time is 3.684328 seconds.
+
+CNR45 BW1e6
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -25.9               2          -59.17
+   2          -7.6             3.8          -31.53
+   3             0             4.4           30.38
+   4         -2.73             4.4           60.41 
+ 
+Elapsed time is 3.653710 seconds.
+
+CNR47 BW1e6
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1             0             4.4           30.37
+   2         -2.73             4.4           60.28 
+Elapsed time is 3.623982 seconds.
+
+CNR47 BW1e7
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -26.5               2          -59.48
+   2         -7.66             3.8          -31.23
+   3             0             4.4           30.24
+   4         -2.95             4.4           60.17 
+Elapsed time is 5.214941 seconds.
+
+CNR50 BW1e7
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1             0             4.4           29.79
+   2         -3.06             4.4           59.92 
+Elapsed time is 5.228256 seconds.
+
+CNR50 BW1e8
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1         -13.9            1.35          -9.049
+   2         -26.5               2          -60.15
+   3         -7.16             3.8          -29.54
+   4             0             4.4           30.35
+   5         -2.88             4.4           60.35 
+Elapsed time is 26.758257 seconds.
+
+CNR60 BW1e8
+ESTIMATED PARAMETERS OF DETECTED TARGETS:
+
+Number     Rel RCS (dB)     Range (km)     Vel (m/s)
+   1             0             4.4           30.51
+   2         -2.83             4.4           60.45 
+ 
+Elapsed time is 25.234642 seconds.
+
+CNR60 BW1e9

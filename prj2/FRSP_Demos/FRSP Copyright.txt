@@ -1,0 +1,8 @@
+Except as otherwise noted, this software was developed by Dr. Mark A. Richards
+of the Georgia Institute of Technology, and was provided by the Georgia
+Institute of Technology as part of the professional education course
+“Fundamentals of Radar Signal Processing”, 2006 and subsequent offerings,
+or by Dr. Mark A. Richards to accompany the book "Fundamentals of Radar Signal
+Processing", Mark A. Richards (author), published by McGraw-Hill, New York, 2005.
+
+Copyright 2006-2009, Mark A. Richards.  All Rights Reserved.

@@ -1,0 +1,10 @@
+All software is provided "as is".  It is intended for tutorial
+and demonstration use only and is provided as a convenience and
+courtesy to the user.  No user support is available.
+
+The developer, the Georgia Institute of Technology, and the
+Distance Learning and Professional Education division of the
+Georgia Institute of Technology make absolutely no warranty of
+merchantability or fitness for any use or for any particular
+purpose, or that the use of the software will not infringe on
+any third party patents, copyrights, trademarks, or other rights.

@@ -1,0 +1,17 @@
+This software has been tested on MATLAB version 7.8 (R2009a).
+It is believed to be compatible with MATLAB versions R2006
+and later.
+
+It is assumed that the user's installation of MATLAB includes
+the Signal Processing Toolbox.
+
+Equations in the Microsoft Word documents were created in MathType™.
+MathType is an upgrade to Microsoft’s Equation Editor.  It can edit
+equations created in Equation Editor, however, the converse is not
+true.  In addition, MathType may use some fonts or characters not
+available on machines on which it is not installed. Consequently,
+you may need to install MathType in order to be able to edit the
+equations, and some equation characters may not display properly
+without it (in my experience, this is very rare, limited to a few
+special characters).  MathType is available at
+www.dessci.com/en/products/mathtype/.
